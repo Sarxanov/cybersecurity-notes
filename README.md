@@ -1,6 +1,6 @@
 # cybersecurity-notes
 My personal notes and learning journey in cybersecurity.
-Linux notes 🐧
-Nmap notes 👁️
-Wireshark notes 🦈
-Networking notes 🛜
+<p>Linux notes 🐧</p>
+<p>Nmap notes 👁️</p>
+<p>Wireshark notes 🦈</p>
+<p>Networking notes 🛜</p>
