@@ -1,19 +1,42 @@
-# 🐧 Linux
+# 🐧 Linux Notes
 
-My notes while learning Linux fundamentals and Linux security.
+Personal notes and practical examples covering Linux fundamentals and cybersecurity.
 
 ## 📚 Topics
 
-- File System
-- File Permissions
-- Processes
-- Users & Groups
-- Useful Commands
-- SUID / SGID
-- Linux Capabilities
-- Privilege Escalation
+- **Basics:** Essential commands and filesystem navigation
+- **Files & Permissions:** `chmod`, `chown`, SUID, SGID
+- **Users & Processes:** Users, groups, `sudo`, `ps`, `systemctl`
+- **Networking:** `ip`, `ss`, `ping`, `dig`
+- **Text Processing:** `grep`, `find`, pipes and redirection
+- **SSH:** Remote access and file transfers
+- **Security:** Linux capabilities, logs, privilege escalation fundamentals
 
-## 🧪 Practice
+## 💻 Command Example
 
-These notes are based on hands-on practice,
-CTF labs, Hack The Box, and personal experimentation.
+```bash
+whoami
+```
+
+Output:
+
+```text
+Tuncay
+```
+
+## 🎯 Goals
+
+- Improve Linux command-line skills
+- Understand permissions and system security
+- Practice Linux enumeration in authorized labs
+- Document useful commands and lessons learned
+
+## 📖 Resources
+
+- [Linux man-pages](https://man7.org/linux/man-pages/)
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+- [HTB Academy](https://academy.hackthebox.com/)
+
+---
+
+**Author:** Tuncay Sarxanlı
