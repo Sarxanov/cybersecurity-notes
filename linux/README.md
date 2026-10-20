@@ -4,13 +4,13 @@ Personal notes and practical examples covering Linux fundamentals and cybersecur
 
 ## 📚 Topics
 
-- **Basics:** Essential commands and filesystem navigation
-- **Files & Permissions:** `chmod`, `chown`, SUID, SGID
-- **Users & Processes:** Users, groups, `sudo`, `ps`, `systemctl`
-- **Networking:** `ip`, `ss`, `ping`, `dig`
-- **Text Processing:** `grep`, `find`, pipes and redirection
-- **SSH:** Remote access and file transfers
-- **Security:** Linux capabilities, logs, privilege escalation fundamentals
+- [Basics](basics.md) — Essential commands and filesystem navigation
+- [Files & Permissions](files-and-permissions.md) — `chmod`, `chown`, SUID, SGID
+- [Users & Processes](users-and-processes.md) — Users, groups, `sudo`, `ps`, `systemctl`
+- [Networking](networking.md) — `ip`, `ss`, `ping`, `dig`
+- [Text Processing](text-processing.md) — `grep`, `find`, pipes and redirection
+- [SSH](ssh.md) — Remote access and file transfers
+- [Security](security.md) — Linux capabilities, logs, privilege escalation fundamentals
 
 ## 💻 Command Example
 
